@@ -34,7 +34,7 @@ button:hover {
     background-color: chartreuse;
 }
 
-p::selection {
+h3::selection {
     color: darkmagenta;
     background-color: gold;
 }
