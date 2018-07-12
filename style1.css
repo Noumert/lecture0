@@ -34,3 +34,9 @@ button:hover {
     background-color: chartreuse;
 }
 
+p::selection {
+    color: darkmagenta;
+    background-color: gold;
+}
+
+
