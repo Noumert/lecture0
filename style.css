@@ -7,6 +7,7 @@ table {
     border: 2px solid black;
     border-collapse: collapse;
     width: 30%;
+    background: url(fon1.jpg);
 }
 
 th, td {
