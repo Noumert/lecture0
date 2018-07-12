@@ -1,18 +1,6 @@
 h1 {
     color: #e21b67;
     text-align: left;
-    size: 1;
-}
-
-div {
-    background-color: black;
-    width: 300px;
-    height: 100px;
-    margin: 10px;
-    padding: 50px;
-    font-size: 40px;
-    font-family: Arial;
-    font-weight: bold;
 }
 
 table {
@@ -28,7 +16,7 @@ th, td {
 }
 
 body {
-    background: #c7b39b url(Background.jpg); /* Цвет фона и путь к файлу */
+    background: #c7b39b url(fon.jpg); /* Цвет фона и путь к файлу */
     color: #fff; /* Цвет текста */
 }
 
