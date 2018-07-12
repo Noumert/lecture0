@@ -26,3 +26,9 @@ th, td {
     paddind: 5px;
     text-align: center;
 }
+
+body {
+    background: #c7b39b url(Background.jpg); /* Цвет фона и путь к файлу */
+    color: #fff; /* Цвет текста */
+}
+
