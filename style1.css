@@ -23,7 +23,7 @@ input[list=country] {
     background-color: greenyellow;
 }
 
-@media (device-width: 900px) {
+@media (min-device-width: 900px) {
     button {
         background-color: gold;
         font-size: 24px;
@@ -32,7 +32,7 @@ input[list=country] {
     }
 }
 
-@media (device-width: 899px) {
+@media (max-device-width: 899px) {
     button {
         background-color: deeppink;
         font-size: 24px;
