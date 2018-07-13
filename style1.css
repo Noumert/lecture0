@@ -23,11 +23,22 @@ input[list=country] {
     background-color: greenyellow;
 }
 
-button {
-    background-color: gold;
-    font-size: 24px;
-    height: 30px;
-    width: 173px;
+@media (min-width: 500px) {
+    button {
+        background-color: gold;
+        font-size: 24px;
+        height: 30px;
+        width: 173px;
+    }
+}
+
+@media (max-width: 499px) {
+    button {
+        background-color: deeppink;
+        font-size: 24px;
+        height: 30px;
+        width: 173px;
+    }
 }
 
 button:hover {
