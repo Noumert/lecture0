@@ -3,7 +3,7 @@ h3 {
 }
 
 body {
-    background: #c7b39b url(Background.jpg); /* Цвет фона и путь к файлу */
+    background: #c7b39b url(/css/Background.jpg); /* Цвет фона и путь к файлу */
     color: #fff; /* Цвет текста */
 }
 
@@ -52,7 +52,7 @@ h3::selection {
 
 @media (max-width: 900px) {
     body {
-        background: #c7b39b url(min.png); /* Цвет фона и путь к файлу */
+        background: #c7b39b url(/css/min.png); /* Цвет фона и путь к файлу */
         color: darkturquoise;
     }
 }
